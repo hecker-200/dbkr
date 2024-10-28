@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+
+}
+
+#god{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 4rem;
+    font-family: "Bebas Neue";
+}
+
+#hat{
+    margin-top: 100px;
+    border: 10px solid white;
+    width: 25%;
+    height: 25%;
+}
+
+p{
+    text-align: right;
+}
